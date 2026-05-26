@@ -1,13 +1,13 @@
-##control flow
-#examples
+#control flow
+# Examples
 
--big of three no
--big of three using compact condition
--big of two no
--find digit name 
--find digit name using nested if else
--find digit name using if else 
--find no is even or odd
--movie
--find no is positive negative or zero
--with 3 line find the name of digit 
+- Big of Three Numbers
+- Big of Three Using Compact Condition
+- Big of Two Numbers
+- Find Digit Name
+- Find Digit Name Using Nested If Else
+- Find Digit Name Using If Else
+- Find Number is Even or Odd
+- Movie
+- Find Number is Positive Negative or Zero
+- Find Digit Name in 3 Lines
