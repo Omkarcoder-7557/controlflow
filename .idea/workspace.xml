@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d173489-e438-40d8-9b4a-83a945126c82" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/big3.py" beforeDir="false" afterPath="$PROJECT_DIR$/big3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/big3compact.py" beforeDir="false" afterPath="$PROJECT_DIR$/big3compact.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigof2.py" beforeDir="false" afterPath="$PROJECT_DIR$/bigof2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/digitmostpowerful.py" beforeDir="false" afterPath="$PROJECT_DIR$/digitmostpowerful.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/digitnameif.py" beforeDir="false" afterPath="$PROJECT_DIR$/digitnameif.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/digitnameifelifif.py" beforeDir="false" afterPath="$PROJECT_DIR$/digitnameifelifif.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/digitnameifelse.py" beforeDir="false" afterPath="$PROJECT_DIR$/digitnameifelse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/evenoddifelse.py" beforeDir="false" afterPath="$PROJECT_DIR$/evenoddifelse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/movie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pvenve.py" beforeDir="false" afterPath="$PROJECT_DIR$/pvenve.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/with3line.py" beforeDir="false" afterPath="$PROJECT_DIR$/with3line.py" afterDir="false" />
+    <list default="true" id="1d173489-e438-40d8-9b4a-83a945126c82" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="10" />
+    <option name="cachedIndexableFilesCount" value="18" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -273,11 +261,25 @@
       <updated>1779777743839</updated>
       <workItem from="1779777744848" duration="1368000" />
       <workItem from="1779798379513" duration="5891000" />
+      <workItem from="1779804303191" duration="344000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1779804558964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779804558964</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/controlflow$digitmostpowerful.coverage" NAME="digitmostpowerful Coverage Results" MODIFIED="1779803662653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
