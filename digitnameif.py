@@ -1,5 +1,5 @@
 #WRITE A PYTHON PROGRAM WHICH WILL ACCEPT A DIGIT AND DISPLAY ITS NAME (if)
-d=int(input("enter the digit "))
+d=int(input("enter the digit:"))
 
 #logic
 if (d==0):
@@ -25,7 +25,7 @@ if (d==9):
 if d in [-1,-2,-3,-4,-5,-6,-7,-8,-9]:
     print("the {} is negative{}".format(d,d))
 if d not in [-1,-2,-3,-4,-5,-6,-7,-8,-9] and d<0:
-    print("the {} is negative number".format(d))
-else:
-    print("{} is a positive number not a digit".format(d))
+    print("the {} is negative number not a digit".format(d))
+if d not in [0,1,2,3,4,5,6,7,8,9] and d>0:
+    print("the {} is positive number not a digit".format(d))
 print("the program executed")
